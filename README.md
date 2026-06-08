@@ -24,6 +24,29 @@ A modern and responsive personal portfolio website built with React.js to showca
 - **Projects** - My work and projects
 - **Contact** - Get in touch
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
+# Clone the repository
+git clone https://github.com/devasuriyanalphafly-web/portfolio-website.git
+
+# Navigate to project folder
+cd portfolio-website
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+```
+
+## Live Demo
+
+[View Live Portfolio](https://devasuriyanalphafly-web.github.io/portfolio-website)
+
+## Contact
+
+- **GitHub:** [@devasuriyanalphafly-web](https://github.com/devasuriyanalphafly-web)
+
+---
+ If you like this project, give it a star!
